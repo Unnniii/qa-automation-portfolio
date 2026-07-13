@@ -4,7 +4,7 @@ on: [push, pull_request]
 
 jobs:
   test:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  # Playwright 1.44 --with-deps needs 22.04 package names, not 24.04
     steps:
       - uses: actions/checkout@v4
 
