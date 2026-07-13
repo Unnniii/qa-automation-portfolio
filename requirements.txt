@@ -1,5 +1,5 @@
-pytest
-playwright
-pytest-playwright
-requests
-jsonschema
+pytest==8.2.0
+playwright==1.44.0
+pytest-playwright==0.7.2
+requests==2.33.1
+jsonschema==4.25.1

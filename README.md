@@ -1,6 +1,6 @@
 # qa-automation-portfolio
 
-![tests](https://github.com/USERNAME/qa-automation-portfolio/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/Unnniii/qa-automation-portfolio/actions/workflows/tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.12-blue)
 ![Playwright](https://img.shields.io/badge/Playwright-UI-green)
 ![pytest](https://img.shields.io/badge/pytest-API-orange)
